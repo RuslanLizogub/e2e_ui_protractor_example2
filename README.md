@@ -1,2 +1,3 @@
 # e2e_ui_protractor_example2
+test
 e2e_ui_protractor_example
